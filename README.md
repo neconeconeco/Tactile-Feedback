@@ -1,4 +1,4 @@
-# Tactile-Feedback
+# Tactile Feedback
 Provide various tactile feedback with electrovibration technology.  
 
 本项目参照Disney Research发表的论文，使用electrovibration技术开发可以提供丰富的触觉反馈的硬件。参照的论文可以在"doc/论文"目录下找到。 原型制作过程参照了WEFT的实现方式。
